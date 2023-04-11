@@ -17,11 +17,11 @@ With React-Search-Bar, you can easily add search functionality to your applicati
 
 ## Screenshots
 
--- Home page
+-- Search page
 
-![App Screenshot](https://github.com/harsh1kashyap/react-search-bar/blob/master/src/ss/2.PNG?raw=true)
+![App Screenshot](https://github.com/harsh1kashyap/react-search-bar/blob/master/src/ss/Capture.PNG?raw=true)
 
--- Loading page
+-- Result page
 
 ![App Screenshot](https://github.com/harsh1kashyap/react-search-bar/blob/master/src/ss/2.PNG?raw=true)
 ## API Reference
