@@ -1,0 +1,21 @@
+.footer_d{
+    position: fixed;
+    display: flex;
+    font-size: 20px;
+    color: red;
+    margin-top: 500px;
+    
+}
+
+.footer_d a{
+    text-decoration: none;
+    padding-left: 10px;
+    font-size: 20px;
+    color: wheat;
+}
+
+@media only screen and (max-width: 600px) {
+    .footer_d {
+        margin-top: 450px;
+    }
+  }
